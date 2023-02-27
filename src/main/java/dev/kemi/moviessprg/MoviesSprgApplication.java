@@ -16,7 +16,7 @@ public class MoviesSprgApplication {
 
 	@GetMapping("/")
 	public String apiRoot() {
-		return "Hello World!";
+		return "This is a test!";
 	}
 
 }
